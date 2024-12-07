@@ -1,0 +1,22 @@
+//ติดตั้ง node_modules
+npm install
+
+// icon 
+npm install @heroicons/react
+
+// ant design
+npm install antd
+
+// แสดงกราฟ
+npm install chart.js
+
+//คำสั่งติดตั้ง tailwind css
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+//react-router-dom
+npm i react-router-dom
+
+//export pdf excel csv
+npm install xlsx jspdf react-csv
+npm install file-saver
